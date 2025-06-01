@@ -178,23 +178,21 @@ OTHER DB :-
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{} MB</code></b>"""
     
     LOG_TEXT_G = """
-     <a href='https://t.me/IKBRYT_MOVIES_000091_bot'>IKBRYT MOVIE</a> #NewGroup
+    @IKBRYT_MOVIES_000091_bot #NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}"""
 
     LOG_TEXT_P = """
-    <a href='https://t.me/IKBRYT_MOVIES_000091_bot'>IKBRYT MOVIE</a> #NewUser
+    @IKBRYT_MOVIES_000091_bot #NewUser
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
-    ALRT_TXT = """ 
-    <a href='https://t.me/IKBRYT_MOVIES_000091_bot'>IKBRYT MOVIE</a> ʜᴇʟʟᴏ {},
+    ALRT_TXT = """ʜᴇʟʟᴏ {},
 ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ʏᴏᴜʀ ᴍᴏᴠɪᴇ ʀᴇQᴜᴇꜱᴛ,
 ʀᴇQᴜᴇꜱᴛ ʏᴏᴜʀ'ꜱ..."""
 
-    OLD_ALRT_TXT = """
-    <a href='https://t.me/IKBRYT_MOVIES_000091_bot'>IKBRYT MOVIE</a> ʜᴇʏ {},
+    OLD_ALRT_TXT = """ʜᴇʏ {},
 ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏɴᴇ ᴏꜰ ᴍʏ ᴏʟᴅ ᴍᴇꜱꜱᴀɢᴇꜱ, 
 ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴛʜᴇ ʀᴇQᴜᴇꜱᴛ ᴀɢᴀɪɴ."""
 
@@ -468,7 +466,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  
     RESTART_TXT = """
-<a href='https://t.me/IKBRYT_MOVIES_000091_bot'>IKBRYT MOVIE</a> <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+@IKBRYT_MOVIES_000091_bot <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
