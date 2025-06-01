@@ -177,14 +177,12 @@ OTHER DB :-
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{} MB</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{} MB</code></b>"""
     
-    LOG_TEXT_G = """
-    @IKBRYT_MOVIES_000091_bot #NewGroup
+    LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
 Tᴏᴛᴀʟ Mᴇᴍʙᴇʀs = <code>{}</code>
 Aᴅᴅᴇᴅ Bʏ - {}"""
 
-    LOG_TEXT_P = """
-    @IKBRYT_MOVIES_000091_bot #NewUser
+    LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
 
