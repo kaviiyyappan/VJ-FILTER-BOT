@@ -1827,7 +1827,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "start":
         if PREMIUM_AND_REFERAL_MODE == True:
             buttons = [[
-                InlineKeyboardButton('⤬🔥ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ🔥⤬', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true&admin=post_messages+delete_messages+edit_messages+invite_users+promote_members+pin_messages')
+                InlineKeyboardButton('⤬🔥ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ🔥⤬', url=f'http://telegram.me/IKBRYT_MOVIES_000091_bot?startgroup=true&admin=post_messages+delete_messages+edit_messages+invite_users+promote_members+pin_messages+ban_users')
             ],[
                 InlineKeyboardButton('🤑ᴇᴀʀɴ ᴍᴏɴᴇʏ🤑', callback_data="shortlink_info"),
                 InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK)
@@ -1841,7 +1841,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ]]
         else:
             buttons = [[
-                InlineKeyboardButton('⤬🔥ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ🔥⤬', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true&admin=post_messages+delete_messages+edit_messages+invite_users+promote_members+pin_messages')
+                InlineKeyboardButton('⤬🔥ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ🔥⤬', url=f'http://telegram.me/IKBRYT_MOVIES_000091_bot?startgroup=true&admin=post_messages+delete_messages+edit_messages+invite_users+promote_members+pin_messages+ban_users')
             ],[
                 InlineKeyboardButton('🤑ᴇᴀʀɴ ᴍᴏɴᴇʏ🤑', callback_data="shortlink_info"),
                 InlineKeyboardButton('ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ', url=GRP_LNK)
