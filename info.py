@@ -88,8 +88,8 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '+3B4WThZLn4ozNDc9') # 
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+-ddJP4h1LWo4OTM9')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+CXdSFgRVbERmZDBl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+MVUCljHYHPIxNGM1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+9EmTU6p9rAczNGQ1')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'IKBRYTMOVIES') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/IKBRYTLinkz_official_bot')
 
@@ -196,4 +196,5 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
 
